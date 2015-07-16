@@ -1,0 +1,12 @@
+{application, hilbert,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {modules, []},
+  {env, []}
+ ]}.

@@ -1,0 +1,8 @@
+.eunit
+.rebar
+*.d
+*.o
+*~
+deps
+ebin
+priv
